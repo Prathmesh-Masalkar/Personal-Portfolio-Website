@@ -1,10 +1,4 @@
-Name- Prathmesh Prashant Masalkar
-Company-CODTECH IT SOLUTIONS PVT.LTD
-ID-CT4FWD3474
-Domain-FRONTEND WEB DEVELOPMENT
-Duration-June-July2024
-Mentor-Neela Santhosh Kumar
-Overview:- PERSONAL PORTFOLIO WEBSITE
+PERSONAL PORTFOLIO WEBSITE
 
 OVERVIEW:
 Create a personal portfolio website to showcase your projects, skills, and experience. This project helps you learn HTML, CSS, and basic JavaScript. Design a responsive layout using CSS Grid or Flexbox. Implement a navigation menu and multiple sections (About, Projects, Contact).
